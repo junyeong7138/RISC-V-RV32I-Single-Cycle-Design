@@ -1,5 +1,5 @@
 
-## RISC-V Single-Cycle/hardware/source/
+## /hardware/source/
 
 ## rev00
 - 01~03 test
