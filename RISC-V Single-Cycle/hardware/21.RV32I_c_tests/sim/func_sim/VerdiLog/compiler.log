@@ -1,0 +1,44 @@
+*design* DebussyLib (btIdent Verdi_S-2021.09-SP2-9)
+Command arguments:
+    +define+verilog
+    -f run.f
+        ./sim_define.v
+        ../../../source/single_cycle/myCPU/rev01/model/ASYNC_RAM_DP_WBE.v
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/reg_file_async.v
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/adder.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/extend.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/flopenr.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/flopr.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/be_logic.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/mux2.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/mux3.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/alu.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/aludec.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/maindec.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/branch_logic.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/controller.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/datapath.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/riscvsingle.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/SMU_RV32I_System.v
+        ../../testbench/c_tests_tb.v
+
+
+*Error* illegal LHS in continuous assignment
+"../../../source/single_cycle/myCPU/rev01/src/rtl/branch_logic.sv", 33: 
+
+*Error* Syntax error at ;
+"../../testbench/c_tests_tb.v", 58: 
+Highest level modules:
+flopenr
+c_tests_tb
+
+
+*Error* failed to find identifier hex_file
+"../../testbench/c_tests_tb.v", 70: 
+
+*Error* failed to find identifier hex_file
+"../../testbench/c_tests_tb.v", 72: 
+
+*Error* failed to find identifier hex_file
+"../../testbench/c_tests_tb.v", 73: 
+Total	5 error(s),   0 warning(s)

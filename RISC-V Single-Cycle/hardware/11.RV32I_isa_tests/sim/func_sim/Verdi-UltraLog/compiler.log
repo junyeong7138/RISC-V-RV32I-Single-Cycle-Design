@@ -1,0 +1,30 @@
+*design* DebussyLib (btIdent Verdi_S-2021.09-SP2-9)
+Command arguments:
+    +define+verilog
+    -sv
+    -f run.f
+        ./sim_define.v
+        ../../../source/single_cycle/myCPU/rev01/model/ASYNC_RAM_DP_WBE.v
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/reg_file_async.v
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/adder.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/extend.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/flopenr.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/flopr.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/be_logic.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/mux2.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/building_blocks/mux3.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/alu.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/aludec.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/maindec.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/branch_logic.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/controller.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/datapath.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/riscvsingle.sv
+        ../../../source/single_cycle/myCPU/rev01/src/rtl/SMU_RV32I_System.v
+        ../../testbench/isa_testbench.v
+
+Highest level modules:
+flopenr
+isa_testbench
+
+Total	0 error(s),   0 warning(s)
