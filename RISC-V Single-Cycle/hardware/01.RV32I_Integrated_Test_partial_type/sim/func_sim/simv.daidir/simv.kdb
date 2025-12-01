@@ -1,7 +1,7 @@
 rc file Version 1.0
 
 [Design]
-COMPILE_PATH=/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim
+COMPILE_PATH=/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim
 VCS_HOME=/tools/synopsys_2021/vcs/S-2021.09-SP2-9
 VERDI_HOME=/tools/synopsys_2021/verdi/S-2021.09-SP2-9
 SystemC=FALSE

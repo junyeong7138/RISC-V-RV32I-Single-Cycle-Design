@@ -5,5 +5,5 @@ PYTHONPATH=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/lib/pylib27
 export PYTHONPATH
 LD_LIBRARY_PATH=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/lib:/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/lib/pylib27
 export LD_LIBRARY_PATH
-/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/bin/vcsfind_create_index.exe  -z  "/home1/xsse1/project/lab_cpu/week09/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/./idents_lORKOg.xml.gz" -o "/home1/xsse1/project/lab_cpu/week09/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp"
-\mv "/home1/xsse1/project/lab_cpu/week09/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp" "/home1/xsse1/project/lab_cpu/week09/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db"
+/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/bin/vcsfind_create_index.exe  -z  "/home1/xsse1/project/singel_test/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/./idents_OIawO6.xml.gz" -o "/home1/xsse1/project/singel_test/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp"
+\mv "/home1/xsse1/project/singel_test/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp" "/home1/xsse1/project/singel_test/hardware/11.RV32I_isa_tests/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db"

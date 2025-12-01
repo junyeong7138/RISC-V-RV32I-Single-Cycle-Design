@@ -5,5 +5,5 @@ PYTHONPATH=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/lib/pylib27
 export PYTHONPATH
 LD_LIBRARY_PATH=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/lib:/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/lib/pylib27
 export LD_LIBRARY_PATH
-/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/bin/vcsfind_create_index.exe  -z  "/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/./idents_I91hAM.xml.gz" -o "/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp"
-\mv "/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp" "/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db"
+/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64/bin/vcsfind_create_index.exe  -z  "/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/./idents_JdXEtq.xml.gz" -o "/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp"
+\mv "/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db_tmp" "/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch/fsearch.db"

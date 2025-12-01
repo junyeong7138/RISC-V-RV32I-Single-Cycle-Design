@@ -144,14 +144,14 @@ LD_LIBRARY_PATH=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/lib:/tools/synopsys_202
 LS_COLORS=rs=0:di=38;5;33:ln=38;5;51:mh=00:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=01;05;37;41:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;40:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.zst=38;5;9:*.tzst=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.wim=38;5;9:*.swm=38;5;9:*.dwm=38;5;9:*.esd=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.mjpg=38;5;13:*.mjpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.m4a=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.oga=38;5;45:*.opus=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
 DVE_HOME=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/gui/dve
 SNPS_INTERNAL_VCS_LINUX_OS=linux
-SNPS_VCS_INTERNAL_ROOT_START_TIME=1764604509.835894735
+SNPS_VCS_INTERNAL_ROOT_START_TIME=1764607165.967637271
 SSH_CONNECTION=121.127.170.70 61110 192.168.0.170 22
 LANG=C.UTF-8
 HISTCONTROL=ignoredups
 HOSTNAME=sse506-s1
 SCRNAME=vcs
-OLDPWD=/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch
-SNPS_VCS_INTERNAL_CURR_PID=494806
+OLDPWD=/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/debug_dump/fsearch
+SNPS_VCS_INTERNAL_CURR_PID=638232
 TOOL_HOME=/tools/synopsys_2021/vcs/S-2021.09-SP2-9/linux64
 COLORTERM=truecolor
 MAKE_TERMOUT=/dev/pts/24
@@ -169,7 +169,7 @@ VCS_MX_HOME_INTERNAL=1
 DC_HOME=/tools/synopsys_2021/syn/S-2021.06-SP5-5
 SYNOPSYS_LC_ROOT=/tools/synopsys_2021/lc/S-2021.06-SP5
 OS_LDFLAGS=
-PWD=/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim
+PWD=/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim
 FM_HOME=/tools/synopsys_2021/fm/S-2021.06-SP5
 VMR_MODE_FLAG=64
 SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
@@ -191,10 +191,10 @@ VSCODE_GIT_ASKPASS_MAIN=/home1/xsse1/.vscode-server/cli/servers/Stable-bf9252a2f
 ICC2_HOME=/tools/synopsys_2021/icc2/S-2021.06-SP5-1
 TERM=xterm-256color
 SHELL=/bin/bash
-SNPS_VCS_INTERNAL_ROOT_PID=494806
+SNPS_VCS_INTERNAL_ROOT_PID=638232
 SCRIPT_NAME=vcs
 SNPS_VCS_INTERNAL_MEMPRELOAD_USE_LIBC=1
-SNPS_VCS_TMPDIR=/tmp/vcs_20251201155509_494806
+SNPS_VCS_TMPDIR=/tmp/vcs_20251201163925_638232
 MAKELEVEL=1
 VERDI_HOME=/tools/synopsys_2021/verdi/S-2021.09-SP2-9
 SHLVL=6
@@ -211,7 +211,7 @@ XDG_RUNTIME_DIR=/run/user/1051
 PATH=.:/tools/synopsys_2021/prime/S-2021.06-SP5-2/bin:/tools/synopsys_2021/fm/S-2021.06-SP5/bin:/tools/synopsys_2021/syn/S-2021.06-SP5-5/bin:/tools/synopsys_2021/lc/S-2021.06-SP5/bin:/tools/synopsys_2021/icc2/S-2021.06-SP5-1/bin:/tools/synopsys_2021/verdi/S-2021.09-SP2-9/bin:/tools/synopsys_2021/vcs/S-2021.09-SP2-9/bin:/home1/xsse1/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand:/home1/xsse1/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli:/home1/xsse1/.vscode-server/cli/servers/Stable-bf9252a2fb45be6893dd8870c0bf37e2e1766d61/server/bin/remote-cli:/home1/xsse1/.local/bin:/home1/xsse1/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home1/xsse1/toolchain/riscv-toolchain-fa19/bin:/home1/xsse1/toolchain/riscv-toolchain-fa19/bin:/home1/xsse1/toolchain/riscv-toolchain-fa19/bin
 VCS_HOME=/tools/synopsys_2021/vcs/S-2021.09-SP2-9
 DEBUGINFOD_URLS=https://debuginfod.centos.org/ 
-sysc_uni_pwd=/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim
+sysc_uni_pwd=/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim
 HISTSIZE=1000
 MAKEFLAGS=
 LESSOPEN=||/usr/bin/lesspipe.sh %s
@@ -227,8 +227,8 @@ FLEXLM_BORROWFILE=/home1/xsse1/.sse506-s1-borrow.txt
 Runtime command line arguments:
 argv[0]=simv
 226 profile - 100
-          CPU/Mem usage: 0.030 sys,  0.120 user,  307.89M mem
-227 Elapsed time:    0:00:00    Tue Dec  2 00:55:11 2025
+          CPU/Mem usage: 0.030 sys,  0.120 user,  307.88M mem
+227 Elapsed time:    0:00:00    Tue Dec  2 01:39:27 2025
 228 User CPU time used: 0 seconds
 229 System CPU time used: 0 seconds
 230 pliAppInit
@@ -248,7 +248,7 @@ argv[0]=simv
 244 *Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
 245 *Verdi* : Create FSDB file 'wave.fsdb'
 246 [spi_vcs_vd_ppi_create_root]: no upf option
-247 compile option from '/home1/xsse1/project/lab_cpu/week09/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/vcs_rebuild'.
+247 compile option from '/home1/xsse1/project/singel_test/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/simv.daidir/vcs_rebuild'.
 248   "vcs '-full64' '-R' '-debug_acc+all' '-sverilog' '-timescale=1ns/1ns' '-f' 'run.f' 2>&1"
 249 DVDI_is_vir_unload_enabled is enable
 250 FSDB_VCS_ENABLE_NATIVE_VC is enable
@@ -266,7 +266,7 @@ argv[0]=simv
                  incr: 1049 var,  848 idcode,  171 callback
                  accu: 1049 var,  848 idcode,  171 callback
             accu incr: 1049 var,  848 idcode,  171 callback
-256 Elapsed time:    0:00:00    Tue Dec  2 00:55:11 2025
+256 Elapsed time:    0:00:01    Tue Dec  2 01:39:28 2025
 257 User CPU time used: 0 seconds
 258 System CPU time used: 0 seconds
 259 pliAppHDL_DumpVarComplete: profile - 
@@ -279,33 +279,33 @@ argv[0]=simv
                  incr: 0 var,  0 idcode,  0 callback
                  accu: 1049 var,  848 idcode,  171 callback
             accu incr: 0 var,  0 idcode,  0 callback
-260 Elapsed time:    0:00:00    Tue Dec  2 00:55:11 2025
+260 Elapsed time:    0:00:01    Tue Dec  2 01:39:28 2025
 261 User CPU time used: 0 seconds
 262 System CPU time used: 0 seconds
 263 End of simulation at 3170
-264 Memory usage: 416.821 M
+264 Memory usage: 416.817 M
 265 Maximum resident set size: 123 MB
 266 Hard page faults: 0
-267 Soft page faults: 12078
-268 Elapsed time:    0:00:00    Tue Dec  2 00:55:11 2025
+267 Soft page faults: 12482
+268 Elapsed time:    0:00:01    Tue Dec  2 01:39:28 2025
 269 User CPU time used: 0 seconds
 270 System CPU time used: 0 seconds
 271 Begin FSDB profile info:
 272 FSDB Writer : bc1(771) bcn(2192) mtf/stf(0/0)
-FSDB Writer elapsed time : flush(0.011696) io wait(0.000000) theadpool wait(0.000000)
+FSDB Writer elapsed time : flush(0.012895) io wait(0.000000) theadpool wait(0.000000)
 FSDB Writer cpu time : MT Compression : 0
 273 End FSDB profile info
-274 FSDB closed. Name: wave.fsdb Size: 31150
+274 FSDB closed. Name: wave.fsdb Size: 31142
 275 Parallel profile     - ProducerThread:1 ConsumerThread:1 Buffer:64MB
 276                      - BlockUsed:1 Acquire:3109 BufferUsed:45902
 277                      - Flush:3 Expand:0 ProducerWait:0 ConsumerWait:0
-278                      - MainProducerTime:0.175074562 TotalConsumerTime:0.000000000
-279                      - ElapsedTime:0.133063000
+278                      - MainProducerTime:0.176810552 TotalConsumerTime:0.000000000
+279                      - ElapsedTime:0.132339000
 280 Producer   0 profile - BlockUsed:1 Acquire:3109 BufferUsed:45902
 281 Consumer   0 profile - Affinity:-1 CPUTime:0.000000000 LifeTime:0.000000000 (-nan%)
 282                      - BlockUsed:1 Acquire:3109 BufferUsed:45902
 283 SimExit
-284 Elapsed time:    0:00:01    Tue Dec  2 00:55:12 2025
+284 Elapsed time:    0:00:01    Tue Dec  2 01:39:28 2025
 285 User CPU time used: 0 seconds
 286 System CPU time used: 0 seconds
 287 Sim process exit
