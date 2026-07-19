@@ -1,6 +1,0 @@
-Command exited with non-zero status 127
-{"vcs1":{"timestamp_begin":1763088358.259125939, "rt":0.02, "ut":0.00, "st":0.00}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1763088357.971913267}
-{"VCS_COMP_START_TIME": 1763088357.971913267}
-{"VCS_COMP_END_TIME": 1763088358.337206901}
-{"VCS_USER_OPTIONS": "-R -debug_acc+all -sverilog -timescale=1ns/1ns -f run.f"}
